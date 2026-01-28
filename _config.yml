@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Abdelrahman's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Abdelrahman Abdelgawad"
 description              : &description "Abdelrahman Abdelgawad's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,6 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Boston University working on Optimal Control and Reinforcement Learning for Safety-Critical Robotic Systems." # A short bio or tagline
   location         : "Boston, MA, USA"
+  # Add link to your employer's site: https://www.bu.edu/eng/
   employer         : "Boston University"
   uri              : # URL
   email            : "aaoaa@bu.edu"
@@ -41,8 +42,10 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Abdelrahman-Abdelgawad-4?ev=hdr_xprf"
   scopus           : # URL
+  IEEEXplore       : "https://ieeexplore.ieee.org/author/37089550359"
+  RoboticsLab      : "https://sites.bu.edu/robotics/people/abdelrahman-abdo-abdelgawad/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -54,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
