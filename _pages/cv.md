@@ -19,7 +19,7 @@ You can download my full CV [here](/files/Abdelrahman_Abdelgawad_CV.pdf).
   * GPA: 4.0/4.0 — Qualifying Exam passed Spring 2025
 
 * **B.S. in Mechatronics and Robotics Engineering**, Egypt-Japan University of Science and Technology, Sep 2019 – Mar 2024
-  * GPA: 3.93/4.0, Ranked 1st in cohort
+  * GPA: 3.93/4.0
 
 ## Research Experience
 
